@@ -1,6 +1,6 @@
 {
-    "name": "getxroute",
-    "short_name": "getxroute",
+    "name": "getxmiddleware",
+    "short_name": "getxmiddleware",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

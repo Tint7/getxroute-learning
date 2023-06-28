@@ -1,6 +1,6 @@
-# getxroute
+# getxmiddleware
 
-A Flutter Routing Tutorial Learning.
+A Flutter Middleware Getx Learing.
 
 ## Getting Started
 
